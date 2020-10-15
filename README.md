@@ -13,4 +13,12 @@ To download the dataset (https://www.kaggle.com/c/instacart-market-basket-analys
 I have created features related USER X ITEM recenet reorder and User total orders and total reorders. This three features was enough to put me into top 300 rank 
 and I acheived Mean F1-Score 0.34016
 
-EDA Notebook : 
+EDA Notebook : tanaykale8390@gmail.com_EDA_CS1.ipynb
+
+
+Final Features and Final Model Notebook : tanaykale8390@gmail.com_CS1_FE_FINAL_MODEL.ipynb
+
+
+I have created one test pipline:tanaykale8390@gmail.com_CS1_PIP.ipynb
+
+This file will return Mean F1 Score for given order_id for test data. I have created test data with it's actual reorder products and then I used pretrained model to predict the reorder products for given order and then printed the Mean F1-Score.
