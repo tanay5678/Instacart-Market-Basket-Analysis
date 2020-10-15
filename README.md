@@ -10,7 +10,7 @@ The dataeset contains a sample of over 3 million grocery orders from more than 2
 To download the dataset (https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
 ## Solution Apporach:
-I have created features related USER X ITEM recenet reorder and User total orders and total reorders. This three features was enough to put me into top 300 rank 
+I have created features related USER X ITEM recent reorder and User total orders and total reorders. This three features was enough to put me into top 300 rank 
 and I acheived Mean F1-Score 0.34016
 
 EDA Notebook : tanaykale8390@gmail.com_EDA_CS1.ipynb
