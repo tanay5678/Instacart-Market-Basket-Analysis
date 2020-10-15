@@ -22,3 +22,7 @@ Final Features and Final Model Notebook : tanaykale8390@gmail.com_CS1_FE_FINAL_M
 I have created one test pipline:tanaykale8390@gmail.com_CS1_PIP.ipynb
 
 This file will return Mean F1 Score for given order_id for test data. I have created test data with it's actual reorder products and then I used pretrained model to predict the reorder products for given order and then printed the Mean F1-Score.
+
+
+## Kaggle score : 
+<img src = 'final_sub.png'>
