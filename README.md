@@ -1,6 +1,6 @@
 # Instacart-Market-Basket-Analysis
 
-My solution for the Instacart Market Basket Analysis competition on Kaggle.
+My solution for the Instacart Market Basket Analysis competition on Kaggle. Check out my blog on medium (https://medium.com/analytics-vidhya/instacart-market-basket-analysis-kaggle-competition-856ddd7b08e0)
 
 ## Problem Statement 
 Given anonymized data on customer orders over time, predict which previously purchased products will be in a user’s next order.
@@ -26,3 +26,5 @@ This file will return Mean F1 Score for given order_id for test data. I have cre
 
 ## Kaggle score : 
 <img src = 'final_sub.png'>
+
+
